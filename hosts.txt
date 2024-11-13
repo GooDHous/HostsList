@@ -2,6 +2,7 @@ music.youtube.com
 googlevideo.com
 youtu.be
 youtube.com
+mailtrap.io
 youtubei.googleapis.com
 gravitycraft.net
 i.ytimg.com
