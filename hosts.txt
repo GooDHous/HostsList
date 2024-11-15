@@ -2,6 +2,8 @@ music.youtube.com
 googlevideo.com
 youtu.be
 youtube.com
+elements.envato.com
+*.envato.com
 mailtrap.io
 youtubei.googleapis.com
 gravitycraft.net
