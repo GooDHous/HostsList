@@ -3,6 +3,7 @@ spets-4357.okis.ru
 animalfilms.zfilm-hd-1059.online
 googlevideo.com
 bulletproofzone.com
+nosmtp.com
 tv28.lordfilms3.me
 *.lordfilms.*
 www.korona-tur.ru
