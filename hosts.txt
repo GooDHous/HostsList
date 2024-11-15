@@ -4,6 +4,7 @@ youtu.be
 youtube.com
 *.7tv.*
 7tv.*
+7tv.app
 elements-resized.envatousercontent.com
 *.envatousercontent.com
 elements-resized.envatousercontent.com
