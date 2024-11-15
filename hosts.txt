@@ -2,8 +2,11 @@ music.youtube.com
 googlevideo.com
 youtu.be
 youtube.com
+elements-resized.envatousercontent.com
+*.envatousercontent.com
+elements-resized.envatousercontent.com
 elements.envato.com
-*.envato.com
+*.envato.*
 mailtrap.io
 youtubei.googleapis.com
 gravitycraft.net
