@@ -4,6 +4,9 @@ youtu.be
 youtube.com
 *.7tv.*
 *.cloudflare-ech.*
+*.dtf.*
+dtf.ru
+dtf.*
 cloudflare-ech.com
 7tv.*
 steam.com
