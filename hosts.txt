@@ -6,6 +6,12 @@ youtube.com
 *.cloudflare-ech.*
 cloudflare-ech.com
 7tv.*
+steam.com
+steam.*
+*.steam.*
+steamcomunity.com
+steamcomunity.*
+*.steamcomunity.*
 7tv.app
 elements-resized.envatousercontent.com
 *.envatousercontent.com
