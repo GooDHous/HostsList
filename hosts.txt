@@ -3,6 +3,8 @@ googlevideo.com
 youtu.be
 youtube.com
 *.7tv.*
+*.cloudflare-ech.*
+cloudflare-ech.com
 7tv.*
 7tv.app
 elements-resized.envatousercontent.com
