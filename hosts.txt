@@ -1,10 +1,12 @@
-music.youtube.com
+https://www.smtpjs.com/music.youtube.com
 spets-4357.okis.ru
 animalfilms.zfilm-hd-1059.online
 googlevideo.com
 bulletproofzone.com
 nosmtp.com
 tv28.lordfilms3.me
+*.smtpjs.*
+www.smtpjs.com
 *.lordfilms.*
 www.korona-tur.ru
 domains.atom.com
