@@ -11,6 +11,7 @@ tv28.lordfilms3.me
 www.smtpjs.com
 *.lordfilms.*
 www.korona-tur.ru
+www.ej.ru
 domains.atom.com
 hd12.lords.run
 news.pravdaua.com
