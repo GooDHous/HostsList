@@ -1,4 +1,5 @@
 animego.org
+*.yandexwebcache.org
 myrotvorets.center
 yummy-anime.org
 www.smtpjs.com
