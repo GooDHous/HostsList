@@ -1,6 +1,7 @@
 animego.org
 *.animego.*
 animego.*
+*.discordapp.*
 *.yandexwebcache.org
 myrotvorets.center
 yummy-anime.org
