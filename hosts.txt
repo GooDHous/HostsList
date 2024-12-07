@@ -5,6 +5,7 @@ animego.*
 *.yandexwebcache.org
 myrotvorets.center
 yummy-anime.org
+amedia.site
 www.smtpjs.com
 music.youtube.com
 video.twimg.com
