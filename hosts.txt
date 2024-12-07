@@ -1,5 +1,6 @@
 animego.org
 *.animego.*
+animeshot.*
 *.animeshot.*
 *.discordapp.*
 *.yandexwebcache.org
