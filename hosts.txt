@@ -4,6 +4,8 @@ music.youtube.com
 jut.su
 spets-4357.okis.ru
 animalfilms.zfilm-hd-1059.online
+r303.yandexwebcache.org
+*.yandexwebcache.*
 googlevideo.com
 bulletproofzone.com
 nosmtp.com
