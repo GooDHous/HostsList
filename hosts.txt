@@ -4,6 +4,7 @@ animeshot.*
 *.animeshot.*
 *.discordapp.*
 *.yandexwebcache.org
+yt3.ggpht.com
 myrotvorets.center
 animeshot.ru
 github.com
