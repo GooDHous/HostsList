@@ -13,6 +13,17 @@ viber.com
 viber.*
 *.viber.*
 animeshot.ru
+yandere.tv
+anidub.com
+anistar.me
+animedia.tv
+*animevost*
+animeteatr.tv
+animespirit.ru
+v3.vost.pw
+anivost.ru
+*.vost.pw
+agor.pw
 github.com
 github.io
 *.github.io
