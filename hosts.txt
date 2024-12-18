@@ -6,6 +6,7 @@ animeshot.*
 *.yandexwebcache.org
 yt3.ggpht.com
 myrotvorets.center
+thatpervert.com
 viber.com
 viber.*
 *.viber.*
