@@ -6,6 +6,9 @@ animeshot.*
 *.yandexwebcache.org
 yt3.ggpht.com
 myrotvorets.center
+viber.com
+viber.*
+*.viber.*
 animeshot.ru
 github.com
 github.io
