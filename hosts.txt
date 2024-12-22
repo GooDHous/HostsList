@@ -90,6 +90,8 @@ www.defloration.com
 hongkong11000.discord.gg
 kazanhero.ru
 *.lordfilms2.*
+web.whatsapp.com
+*whatsapp*
 661521.pirat.one
 www.photosgrams.com
 *.lordfilms3.*
