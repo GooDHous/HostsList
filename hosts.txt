@@ -12,6 +12,7 @@ thatpervert.com
 viber.com
 viber.*
 *.viber.*
+*.cdn.whatsapp.*
 3hentai.net
 animeshot.ru
 yandere.tv
