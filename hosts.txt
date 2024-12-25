@@ -1,6 +1,12 @@
 *thatpervert*
 thatpervert.*
 animego.org
+*steampowered*
+*.steampowered.*
+*steam*
+steam.*
+*steamcommunity*
+*.steamcommunity.*
 *.animego.*
 animeshot.*
 *.animeshot.*
