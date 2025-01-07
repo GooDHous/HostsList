@@ -4,6 +4,7 @@ thatpervert.*
 animego.org
 *steampowered*
 *.steampowered.*
+clownfish-translator.com
 *steam*
 steam.*
 *steamcommunity*
