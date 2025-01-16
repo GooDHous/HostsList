@@ -2,6 +2,7 @@ rutracker.org
 *steamstatic*
 *thatpervert*
 thatpervert.*
+monitoringminecraft.ru
 animego.org
 *steampowered*
 *.steampowered.*
