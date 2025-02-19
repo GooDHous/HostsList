@@ -1,4 +1,6 @@
 censortracker.org
+*.youtube.*
+*youtube*
 rutracker.org
 *steamstatic*
 *thatpervert*
