@@ -1,4 +1,5 @@
 censortracker.org
+studio.youtube.com
 *.youtube.*
 *youtube*
 rutracker.org
