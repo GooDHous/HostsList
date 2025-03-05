@@ -4,6 +4,7 @@ studio.youtube.com
 *youtube*
 rutracker.org
 *steamstatic*
+animegoa.quest
 *thatpervert*
 thatpervert.*
 monitoringminecraft.ru
