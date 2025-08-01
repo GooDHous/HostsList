@@ -2,6 +2,7 @@ soundcloud.com
 censortracker.org
 studio.youtube.com
 *.youtube.*
+www.speedtest.net
 *youtube*
 rutracker.org
 *steamstatic*
