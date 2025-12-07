@@ -6,7 +6,12 @@ fastpic.org
 www.speedtest.net
 fastpic.top
 modrinth.com
+patch.chelpus.com
 i126.fastpic.org
+roblox.com
+rbxcdn.com
+rblx.org
+freesteam.ru
 rutracker.org
 black-minecraft.com
 animegoa.quest
@@ -14,6 +19,7 @@ thatpervert.com
 monitoringminecraft.ru
 melonstube.com
 animego.org
+cloudflare-dns.com
 clownfish-translator.com
 vpnforyoutube.com
 animego.me
@@ -640,7 +646,6 @@ athleticpharma.live
 atlasgrowthltd.com
 atlasmining.site
 atlasmining.space
-atlassian.com
 atmexchanger.com
 atmosferadom.ru
 atna.lintant.top
@@ -1900,7 +1905,7 @@ bit.tube
 bit.ua
 bitaurox.com
 bitbloom-limited.com
-bitbucket.org
+
 bitchute.com
 bitcoin.org
 bitexcapital.io
