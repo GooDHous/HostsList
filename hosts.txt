@@ -146,12 +146,9 @@ assetboosters.sbs
 sofosbuvir-uzlovaya.ru
 dtf.ru
 cloudflare-ech.com
-7tv.*
 7tv.app
-elements-resized.envatousercontent.com
-*.envatousercontent.com
-elements.envato.com
-*.envato.*
+envatousercontent.com
+envato.com
 mailtrap.io
 googleapis.com
 gravitycraft.net
